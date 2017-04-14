@@ -1,0 +1,6 @@
+zuul:
+  routes:
+    employeeConsumer:
+      serviceId: employeeConsumer                              
+    employeeProducer:                       
+      serviceId: employeeProducer      
